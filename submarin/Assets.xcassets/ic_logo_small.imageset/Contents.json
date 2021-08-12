@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mitte-app-ios_logo_top_small_01.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
